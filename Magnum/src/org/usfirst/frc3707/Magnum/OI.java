@@ -14,6 +14,8 @@ package org.usfirst.frc3707.Magnum;
 import org.usfirst.frc3707.Magnum.commands.*;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import edu.wpi.first.wpilibj.Joystick;
+import org.usfirst.frc3707.Magnum.subsystems.*;
+
 
 /**
  * This class is the glue that binds the controls on the physical operator
