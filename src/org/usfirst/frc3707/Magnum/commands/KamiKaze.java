@@ -41,7 +41,7 @@ public class KamiKaze extends Command {
 
     // Called repeatedly when this Command is scheduled to run
     protected void execute() {
-    	Robot.drivesystem.drive(1,1);
+    	Robot.drivesystem.tankdrive(0.7,0.7);
     }
 
     // Make this return true when this Command no longer needs to run execute()
